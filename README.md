@@ -31,7 +31,12 @@ in passive brain-machine interfaces (pBCI’s)"</i> I applied <b>statistical ana
 blueprint of a pBCI system that infers user sate based on these formulas</li>
   </ul>
 
-
+<h2>Supracurrilucar</h2>
+<ul>
+  <li>QIncubator: I participated in a college enterprise programme where I learnt basics of finding an opportunity in the market, starting, and running a business</li>
+  <li>BrightWidget: I have put my skills into practice and started a tech company that develops digital planners</li>
+  <li></li>
+  </ul>
 
 <h2>Skills</h2>
 
