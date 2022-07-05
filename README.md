@@ -1,8 +1,9 @@
 ### <h1>Hi there 👋</h1>
 - I've recently graduated in <b>Computer Science BSc</b> from Queen Mary University of London.<br>
 - During my studies I've developed an interest in technologies capable of <b>augmenting human abilities</b>.<br>
-- In particular, <b>Brain-Machine Interfaces</b> and how this technology can help us understand human brain and improve its funtions.
-- To pursue my interest further I will be studyng a full-time <b>MSc in Biomedical Engineering (Neurotechnology pathway) at Imperial College London</b>.
+- In particular, <b>Brain-Machine Interfaces</b> and how this technology can help us understand human brain and improve its funtions.<br>
+
+✨ To pursue my interest further I will be studyng a full-time <b>MSc in Biomedical Engineering (Neurotechnology pathway) at Imperial College London</b>.
 
 <!--
 **dnsgrig/dnsgrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
