@@ -1,5 +1,7 @@
 ### <h1>Hi there 👋</h1>
-I'm Denis and recently I've graduated in <b>Computer Science</b> from Queen Mary University of London.
+- I've recently graduated in <b>Computer Science BSc</b> from Queen Mary University of London.<br>
+- During my studies I've developed an interest in technologies capable of <b>augmenting human abilities</b>.<br>
+- In particular, <b>Brain-Machine Interfaces</b> and how this technology can help us understand human brain and improve its funtions.
 
 <!--
 **dnsgrig/dnsgrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +30,5 @@ blueprint of a pBCI system that infers user sate based on these formulas.
 
 
 <h2>Skills</h2>
+
+<h2>Contact</h2>
