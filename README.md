@@ -30,8 +30,11 @@ Here are some ideas to get you started:
 <li><b>Deep Learning and Neural Networks</b></li> 
 <li><b>Big Data Processing</b></li>
 <li><b>Software Engineering</b></li>
-<br></li>
 </ul>
+</li>
+<!--
+</ul>
+-->
 <li><h4>Final year project (Computer Science BSc)</h4>
 <ul>
   <li><b>Title:</b> <i>"Relating brain information processing patterns to activities and inferring user state
