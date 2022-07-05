@@ -25,7 +25,13 @@ Here are some ideas to get you started:
 
 <h2>Studies</h2>
 <ul>
-<li>During my undergraduate years I worked on various projects and courseworks including those in <b>Deep Learning and Neural Networks, Big Data, and Software Engineering</b>.<br></li>
+<li>During my undergraduate years I worked on various projects, courseworks, and achieved high marks including those in: <br>
+<ul>
+<li><b>Deep Learning and Neural Networks</b></li> 
+<li><b>Big Data Processing</b></li>
+<li><b>Software Engineering</b></li>
+<br></li>
+</ul>
 <li><h4>Final year project (Computer Science BSc)</h4>
 <ul>
   <li><b>Title:</b> <i>"Relating brain information processing patterns to activities and inferring user state
