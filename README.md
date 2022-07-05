@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <ul>
 <li>During my undergraduate years I worked on various projects, courseworks, and achieved high marks including those in: <br><br>
 <ul>
-<li><b>Deep Learning and Neural Networks</b></li> 
-<li><b>Big Data Processing</b></li>
-<li><b>Software Engineering</b></li>
+<li><b>Deep Learning and Neural Networks (TBC)</b></li> 
+<li><b>Big Data Processing               (79.4 %)</b></li>
+<li><b>Software Engineering              (78.8 %)</b></li>
 </ul>
 </li>
 <!--
