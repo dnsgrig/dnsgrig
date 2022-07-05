@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <ul>
   <li><b>Title:</b> <i>"Relating brain information processing patterns to activities and inferring user state
 in passive brain-machine interfaces (pBCI’s)"</i> </li>
-<li>In my final year project project I applied <b>statistical analysis on EEG brain data</b> to relate global neuronal co-activity patterns to specific activities like resting.</li>
+<li>In my final year project project I carried out research and applied <b>statistical analysis on EEG brain data</b> to relate global neuronal co-activity patterns to specific activities like resting.</li>
 <li>To achieve that I used <b>Python, libraries like matplotlib, pandas, and Jupyter notebook</b>.</li>
 <li>My deliverables are <b>two formulas describing global brain activity during rest</b> and a 
 blueprint of a pBCI system that infers user sate based on these formulas.</li>
