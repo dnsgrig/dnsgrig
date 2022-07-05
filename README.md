@@ -1,4 +1,5 @@
 ### <h1>Hi there 👋</h1>
+I'm Denis and recently I've graduated in <b>Computer Science</b> from Queen Mary University of London.
 
 <!--
 **dnsgrig/dnsgrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>About me</h2>
-I'm Denis and recently I've graduated in <b>Computer Science</b> from Queen Mary University of London. 
-
+<h2>Studies</h2>
 During the 3-year-long BSc I worked on avarious projects and courseworks including those in <b>Deep Learning and Neural Networks, Big Data, and Software Engineering</b>.
 
 In my <b>final year project project</b> titled <i>"Relating brain information processing patterns to activities and inferring user state
