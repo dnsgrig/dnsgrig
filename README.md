@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 in passive brain-machine interfaces (pBCI’s)"</i> I applied <b>statistical analysis on EEG brain data</b> to relate global neuronal co-activity patterns to specific activities like resting.
 - To achieve that I used <b>Python, its libraries like matplotlib, pandas, and Jupyter notebook</b>.
 
-My deliverables are two formulas describing global brain activity during rest and a 
+- My deliverables are <b>two formulas describing global brain activity during rest</b> and a 
 blueprint of a pBCI system that infers user sate based on these formulas.
+
 
 
 <h2>Skills</h2>
