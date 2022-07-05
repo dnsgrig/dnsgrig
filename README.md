@@ -41,7 +41,7 @@ blueprint of a pBCI system that infers user sate based on these formulas.</li>
 <h2>Supracurrilucar</h2>
 <ul>
   <li><b>QIncubator</b>: I participated in a college enterprise programme where I learnt basics of finding an opportunity in the market, starting, and running a business</li>
-  <li><b>London Business School Hackathon 2021</b>: I took part in the hackathon with an idea that would help large companies efficiently offset their carbon footprint by investing in blue carbon solutions. I worked in a cross-disciplinary team on developing a product, business model, and a prototype in Figma.
+  <li><b>London Business School Hackathon 2021</b>: I took part in the hackathon with an idea that would help large companies efficiently offset their carbon footprint by investing in blue carbon solutions. I worked in a cross-disciplinary team on developing a product, business model, and a prototype in Figma
   </li>
   <li><b>Tech company</b>: I have put my skills into practice and started a tech company that develops digital planners</li>
   <li><b>Independent study of neuroscience and neurotechnology:</b><br>
@@ -51,7 +51,6 @@ blueprint of a pBCI system that infers user sate based on these formulas.</li>
     <li>I participate in networking events as Imperial College MedTech SuperConnector</li>
     </ul>
   </li>
-  <li><b></b></li>
   </ul>
 
 <h2>Skills</h2>
