@@ -5,6 +5,7 @@ I look forward to graduate opportunities in Brain Machine Interface R&D, Web and
 <ul>
 <li><b>MSc Neurotechnology</b>, Imperial College London (2022-2024)</li>
 <li><b>BSc Computer Science</b>, Queen Mary University of London (2019-2022)</li>
+</ul>
 <br>
 
 <h2>Experience</h2>
