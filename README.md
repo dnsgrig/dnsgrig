@@ -1,8 +1,8 @@
 ### <h1>Hi there 👋</h1>
 - <b>MSc Neurotechnology</b>, Imperial College London (2022-2024)
 - <b>BSc Computer Science</b>, Queen Mary University of London (2019-2022) <br>
-⚡ I look forard to graduate opportunities in Brain Machine Interface R&D, Web and Software Development<br>
-📫 <b>Contact details below!</b><br>
+- I look forard to graduate opportunities in Brain Machine Interface R&D, Web and Software Development<br>
+
 
 <!--
 **dnsgrig/dnsgrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
