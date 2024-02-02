@@ -42,8 +42,8 @@ team’s productivity by 20%</b></li>
 
 <h4>Teaching Assistant Object Oriented Programming in Java (QMUL)</h4>
 <ul>
-    <li>Taught Object-oriented programming (OOP) concepts in Java to 12 first-year college students</li>
-  <li>Performed code review and provided individualized and detailed feedback</li>
+    <li>Taught Object-oriented programming (OOP) concepts to 12 first-year college students</li>
+  <li>Performed <b>code review</b> and provided individualized and detailed feedback</li>
 </ul>
 <h2>Supracurrilucar</h2>
 <ul>
