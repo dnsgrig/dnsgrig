@@ -11,9 +11,9 @@ I look forward to graduate opportunities in Brain Machine Interface R&D, Web and
   </ul><br>
 <li><b>BSc Computer Science</b>, Queen Mary University of London (2019-2022), <b>1st class with Honours</b></li>
   <ul>
-    <li>Programmed web applications using HTML5, CSS3, PHP, JS, Bootstrap</li>
-    <li>Developed prototypes in Figma and modeled software systems in Visual Paradigm</li>
-    <li>Preprocessed and analysed large datasets of financial transactions (NASDAQ) in Python and Scala
+    <li>Programmed web applications using <b>HTML5, CSS3, PHP, JS, Bootstrap</b></li>
+    <li>Developed prototypes in <b>Figma</b> and modeled software systems in <b>Visual Paradigm</b></li>
+    <li>Preprocessed and analysed large datasets of financial transactions (NASDAQ) in <b>Python and Scala</b>
 applying an efficient data processing model MapReduce</li>
     </ul>
 </ul>
@@ -32,11 +32,11 @@ blueprint of a pBCI system that infers user sate based on these formulas</li>
   <h4>Agile project manager & Web app engineer (FDM Group and QMUL)</h4>
   <ul>
     <li>Identified pain points and gathered insights on the mentoring programme during interviews with the 
-client, resulting in a 50% increase in mentee satisfaction</li>
-    <li>Elicited system’s requirements, produced actionable system design specifications improving our
-team’s productivity by 20%</li>
-    <li>Co-developed a web app prototype in React and JavaScript</li>
-    <li>Applied SCRUM Agile methodology to monitor team’s progress leading to meeting 100% of deadlines</li>
+client, <b>resulting in a 50% increase in mentee satisfaction</b></li>
+    <li>Elicited system’s requirements, produced actionable system design specifications <b>improving our
+team’s productivity by 20%</b></li>
+    <li>Co-developed a web app prototype in <b>React and JavaScript</b></li>
+    <li>Applied <b>SCRUM Agile methodology</b> to monitor team’s progress leading to <b>meeting 100% of deadlines</b></li>
     <li>Received a prize for the best work out of 23 competing teams</li>
   </ul>
 
