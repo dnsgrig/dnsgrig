@@ -1,7 +1,7 @@
 ### <h1>Hi there 👋</h1>
 I am a graduate form <b>Imperial College London</b> skilled in Brain-Machine interfaces, Neural decoders, Data analysis, Real-time systems, and Web development<br><br>
 I look forward to graduate opportunities in Brain Machine Interface R&D, Web and Software Development<br>
-<a href="url"><b>LinkedIn</b></a>  |  
+<a href="url"><b>LinkedIn</b></a> | 
 <a href="url"><b>Twitter</b></a>
 <h2>Education</h2>
 <ul>
