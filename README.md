@@ -22,8 +22,8 @@ blueprint of a pBCI system that infers user sate based on these formulas</li>
   <ul>
     <li>Identified pain points and gathered insights on the mentoring programme during interviews with the 
 client, resulting in a 50% increase in mentee satisfaction</li>
-    <li>Identified pain points and gathered insights on the mentoring programme during interviews with the 
-client, resulting in a 50% increase in mentee satisfaction</li>
+    <li>Elicited system’s requirements, produced actionable system design specifications improving our
+team’s productivity by 20%</li>
     <li>Co-developed a web app prototype in React and JavaScript</li>
     <li>Applied SCRUM Agile methodology to monitor team’s progress leading to meeting 100% of deadlines</li>
     <li>Received a prize for the best work out of 23 competing teams</li>
