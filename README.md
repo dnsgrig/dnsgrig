@@ -5,11 +5,11 @@ I look forward to graduate opportunities in Brain Machine Interface R&D, Web and
 <a href="https://twitter.com/denisgrigoryev5"><b>Twitter</b></a>
 <h2>Education</h2>
 <ul>
-<li><b>MSc Neurotechnology</b>, Imperial College London (2022-2024), <b>Mark: Merit</b></li>
+<li><b>MSc Neurotechnology</b>, Imperial College London (2022-2024), <b>Merit</b></li>
   <ul>
     <li>Redesigned a robotic research platform in Python to suit the needs of future research projects</li>
   </ul><br>
-<li><b>BSc Computer Science</b>, Queen Mary University of London (2019-2022), Mark: 1st class with Honours</li>
+<li><b>BSc Computer Science</b>, Queen Mary University of London (2019-2022), <b>1st class with Honours</b></li>
   <ul>
     <li>Programmed web applications using HTML5, CSS3, PHP, JS, Bootstrap</li>
     <li>Developed prototypes in Figma and modeled software systems in Visual Paradigm</li>
