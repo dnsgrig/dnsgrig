@@ -1,5 +1,5 @@
 ### <h1>Hi there 👋</h1>
-- I've recently graduated in <b>Computer Science BSc</b> from Queen Mary University of London.<br>
+- A graduate in <b>MSc Neurotechnology</b> @ Imperial College London and <b>BSc Computer Science</b> @ Queen Mary University of London.<br>
 - During my studies I've developed an interest in technologies capable of <b>augmenting human abilities</b>.<br>
 - In particular, <b>Brain-Machine Interfaces</b> and how this technology can help us understand human brain and improve its funtions.<br>
 
