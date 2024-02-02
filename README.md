@@ -9,7 +9,7 @@ I am a graduate form <b>Imperial College London</b> skilled in Brain Machine int
   <ul>
     <li>Redesigned a robotic research platform in <b>Python</b> to suit the needs of future research projects</li>
   </ul><br>
-<li><b>BSc Computer Science</b>, Queen Mary University of London (2019-2022), <b>1st class with Honours</b></li>
+<li><h4><b>BSc Computer Science</b>, Queen Mary University of London (2019-2022), <b>1st class with Honours</b></h4></li>
   <ul>
     <li>Programmed web applications using <b>HTML5, CSS3, PHP, JS, Bootstrap</b></li>
     <li>Developed prototypes in <b>Figma</b> and modeled software systems in <b>Visual Paradigm</b></li>
