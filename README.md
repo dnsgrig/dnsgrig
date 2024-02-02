@@ -1,4 +1,7 @@
 ### <h1>Hi there 👋</h1>
+I am a graduate form <b>Imperial College London</b> skilled in Brain-Machine interfaces, Neural decoders, Data analysis, Real-time systems, and Web development
+
+<h2>Education</h2>
 - <b>MSc Neurotechnology</b>, Imperial College London (2022-2024)
 - <b>BSc Computer Science</b>, Queen Mary University of London (2019-2022) <br>
 - I look forard to graduate opportunities in Brain Machine Interface R&D, Web and Software Development<br>
@@ -20,18 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Studies</h2>
-<ul>
-<li>During my undergraduate years I worked on various projects, courseworks, and achieved high marks including those in: <br><br>
-<ul>
-<li><b>Deep Learning and Neural Networks (TBC)</b></li> 
-<li><b>Big Data Processing               (79.4 %)</b></li>
-<li><b>Software Engineering              (78.8 %)</b></li>
-</ul>
-</li>
-<!--
-</ul>
--->
+
 <li><h4>Final year project (Computer Science BSc)</h4>
 <ul>
   <li><b>Title:</b> <i>"Relating brain information processing patterns to activities and inferring user state
