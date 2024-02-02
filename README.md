@@ -13,12 +13,21 @@ I look forward to graduate opportunities in Brain Machine Interface R&D, Web and
 <ul>
   <li><b>Title:</b> <i>"Relating brain information processing patterns to activities and inferring user state
 in passive brain-machine interfaces (pBCI’s)"</i> </li>
-<li>Carried out research and applied <b>statistical analysis on EEG brain data</b> to relate global neuronal co-activity patterns to specific activities like resting</li>
+<li>Carried out research and performed <b>statistical analysis on EEG brain data</b> to relate global neuronal co-activity patterns to specific activities like resting</li>
 <li>Analysed data using <b>Python, matplotlib, pandas, and Jupyter notebook</b></li>
 <li>Deliverables: <b>two formulas describing global brain activity during rest</b> and a 
 blueprint of a pBCI system that infers user sate based on these formulas</li>
   </ul>
-  </li>
+
+  <h4>Agile project manager, web app engineer, FDM Group and QMUL</h4>
+  <ul>
+    <li>Identified pain points and gathered insights on the mentoring programme during interviews with the 
+client, resulting in a 50% increase in mentee satisfaction</li>
+    <li>Identified pain points and gathered insights on the mentoring programme during interviews with the 
+client, resulting in a 50% increase in mentee satisfaction</li>
+    <li>Co-developed a web app prototype in React and JavaScript</li>
+    <li>Applied SCRUM Agile methodology to monitor team’s progress leading to meeting 100% of deadlines</li>
+    <li>Received a prize for the best work out of 23 competing teams/li>
   </ul>
 
 <h2>Supracurrilucar</h2>
