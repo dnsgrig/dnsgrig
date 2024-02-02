@@ -8,7 +8,7 @@ I look forward to graduate opportunities in Brain Machine Interface R&D, Web and
 </ul>
 
 <h2>Experience</h2>
-<h4>Final year project (Computer Science BSc)</h4>
+<h4># Final year project (Computer Science BSc)</h4>
 <ul>
   <li><b>Title:</b> <i>"Relating brain information processing patterns to activities and inferring user state
 in passive brain-machine interfaces (pBCI’s)"</i> </li>
@@ -18,7 +18,7 @@ in passive brain-machine interfaces (pBCI’s)"</i> </li>
 blueprint of a pBCI system that infers user sate based on these formulas</li>
   </ul>
 
-  <h4>Agile project manager & Web app engineer (FDM Group and QMUL)</h4>
+  <h4># Agile project manager & Web app engineer (FDM Group and QMUL)</h4>
   <ul>
     <li>Identified pain points and gathered insights on the mentoring programme during interviews with the 
 client, resulting in a 50% increase in mentee satisfaction</li>
@@ -29,7 +29,7 @@ client, resulting in a 50% increase in mentee satisfaction</li>
     <li>Received a prize for the best work out of 23 competing teams</li>
   </ul>
 
-<h4>Teaching Assistant Object Oriented Programming in Java</h4>
+<h4># Teaching Assistant Object Oriented Programming in Java</h4>
 <ul>
     <li>Taught Object-oriented programming (OOP) concepts in Java to 12 first-year college students</li>
   <li>Performed code review and provided individualized and detailed feedback</li>
