@@ -5,7 +5,7 @@ I am a graduate form <b>Imperial College London</b> skilled in Brain Machine int
 <a href="https://twitter.com/denisgrigoryev5"><b>Twitter</b></a>
 <h2>Education</h2>
 <ul>
-<li><b>MSc Neurotechnology</b>, Imperial College London (2022-2024), <b>Merit</b></li>
+<li><h4><b>MSc Neurotechnology</b>, Imperial College London (2022-2024), <b>Merit</b></h4></li>
   <ul>
     <li>Redesigned a robotic research platform in <b>Python</b> to suit the needs of future research projects</li>
   </ul><br>
