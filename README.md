@@ -9,7 +9,7 @@ I look forward to graduate opportunities in Brain Machine Interface R&D, Web and
 <br>
 
 <h2>Experience</h2>
-<li><h4>Final year project (Computer Science BSc)</h4>
+<li><h4>Final year project (Computer Science BSc)</h4></li>
 <ul>
   <li><b>Title:</b> <i>"Relating brain information processing patterns to activities and inferring user state
 in passive brain-machine interfaces (pBCI’s)"</i> </li>
