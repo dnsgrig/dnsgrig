@@ -1,6 +1,6 @@
 ### <h1>Hi there 👋</h1>
 I am a graduate form <b>Imperial College London</b> skilled in Brain-Machine interfaces, Neural decoders, Data analysis, Real-time systems, and Web development<br>
-I look forard to graduate opportunities in Brain Machine Interface R&D, Web and Software Development<br>
+I look forward to graduate opportunities in Brain Machine Interface R&D, Web and Software Development<br>
 <h2>Education</h2>
 <ul>
 <li><b>MSc Neurotechnology</b>, Imperial College London (2022-2024)</li>
