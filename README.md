@@ -59,5 +59,3 @@ team’s productivity by 20%</b></li>
   <li><b>Currently learning:</b> Flask, Django, AWS, APIs, Python OOP, OpenCV, CI/CD<br>
   </li>
   </ul>
-
-<h2>Skills</h2>
