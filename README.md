@@ -37,7 +37,7 @@ client, <b>resulting in a 50% increase in mentee satisfaction</b></li>
 team’s productivity by 20%</b></li>
     <li>Co-developed a web app prototype in <b>React and JavaScript</b></li>
     <li>Applied <b>SCRUM Agile methodology</b> to monitor team’s progress leading to <b>meeting 100% of deadlines</b></li>
-    <li>Received a <b>prize for the best work out of 23 competing teams</b></li>
+    <li>Received a <b>prize for the best work out of 23 competing teams <a href="https://www.linkedin.com/posts/denis-grigoryev-673884199_best-prototype-group-2021-activity-6801458329332842497-KVIH/?utm_source=share&utm_medium=member_desktop"><b>(link)</b></a></b></li>
   </ul>
 
 <h4>Teaching Assistant Object Oriented Programming in Java (QMUL)</h4>
