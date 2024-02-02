@@ -29,6 +29,11 @@ client, resulting in a 50% increase in mentee satisfaction</li>
     <li>Received a prize for the best work out of 23 competing teams</li>
   </ul>
 
+<h4>Teaching Assistant Object Oriented Programming in Java</h4>
+<ul>
+    <li>Taught Object-oriented programming (OOP) concepts in Java to 12 first-year college students</li>
+  <li>Performed code review and provided individualized and detailed feedback</li>
+</ul>
 <h2>Supracurrilucar</h2>
 <ul>
   <li><b>QIncubator</b>: I participated in a college enterprise programme where I learnt basics of finding an opportunity in the market, starting, and running a business</li>
