@@ -6,7 +6,6 @@ I look forward to graduate opportunities in Brain Machine Interface R&D, Web and
 <li><b>MSc Neurotechnology</b>, Imperial College London (2022-2024)</li>
 <li><b>BSc Computer Science</b>, Queen Mary University of London (2019-2022)</li>
 </ul>
-<br>
 
 <h2>Experience</h2>
 <h4>Final year project (Computer Science BSc)</h4>
@@ -27,7 +26,7 @@ client, resulting in a 50% increase in mentee satisfaction</li>
 client, resulting in a 50% increase in mentee satisfaction</li>
     <li>Co-developed a web app prototype in React and JavaScript</li>
     <li>Applied SCRUM Agile methodology to monitor team’s progress leading to meeting 100% of deadlines</li>
-    <li>Received a prize for the best work out of 23 competing teams/li>
+    <li>Received a prize for the best work out of 23 competing teams</li>
   </ul>
 
 <h2>Supracurrilucar</h2>
