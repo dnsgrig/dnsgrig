@@ -48,7 +48,7 @@ team’s productivity by 20%</b></li>
 </ul>
 <h2>Supracurrilucar</h2>
 <ul>
-  <li><b>QIncubator</b>: I participated in a college enterprise programme where I learnt basics of finding an opportunity in the market, starting, and running a business</li>
+  <li><b>QIncubator</b>: Participated in a college enterprise programme & practiced finding a market opportunity, starting, and running a business</li>
   <li><b>London Business School Hackathon 2021</b>: 
     <ul>
       <li>Proposed a blue carbon-based solution for corporations to offset their carbon footprint</li>
