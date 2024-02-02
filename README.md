@@ -1,6 +1,6 @@
 ### <h1>Hi there 👋</h1>
 I am a graduate form <b>Imperial College London</b> skilled in Brain-Machine interfaces, Neural decoders, Data analysis, Real-time systems, and Web development<br><br>
-I look forward to graduate opportunities in Brain Machine Interface R&D, Web and Software Development<br><br>
+<b>I look forward to graduate opportunities in Brain Machine Interface R&D, Web and Software Development</b><br><br>
 <a href="https://www.linkedin.com/in/denis-grigoryev-673884199/"><b>LinkedIn</b></a> | 
 <a href="https://twitter.com/denisgrigoryev5"><b>Twitter</b></a>
 <h2>Education</h2>
