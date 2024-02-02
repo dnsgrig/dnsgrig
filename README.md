@@ -29,7 +29,7 @@ team’s productivity by 20%</li>
     <li>Received a prize for the best work out of 23 competing teams</li>
   </ul>
 
-<h4>Teaching Assistant Object Oriented Programming in Java</h4>
+<h4>Teaching Assistant Object Oriented Programming in Java (QMUL)</h4>
 <ul>
     <li>Taught Object-oriented programming (OOP) concepts in Java to 12 first-year college students</li>
   <li>Performed code review and provided individualized and detailed feedback</li>
