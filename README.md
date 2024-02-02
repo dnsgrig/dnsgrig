@@ -1,10 +1,11 @@
 ### <h1>Hi there 👋</h1>
 I am a graduate form <b>Imperial College London</b> skilled in Brain-Machine interfaces, Neural decoders, Data analysis, Real-time systems, and Web development
-
+I look forard to graduate opportunities in Brain Machine Interface R&D, Web and Software Development<br>
 <h2>Education</h2>
-- <b>MSc Neurotechnology</b>, Imperial College London (2022-2024)
-- <b>BSc Computer Science</b>, Queen Mary University of London (2019-2022) <br>
-- I look forard to graduate opportunities in Brain Machine Interface R&D, Web and Software Development<br>
+<ul>
+<li><b>MSc Neurotechnology</b>, Imperial College London (2022-2024)</li>
+<li><b>BSc Computer Science</b>, Queen Mary University of London (2019-2022)</li>
+<br>
 
 
 <!--
