@@ -18,7 +18,7 @@ in passive brain-machine interfaces (pBCI’s)"</i> </li>
 blueprint of a pBCI system that infers user sate based on these formulas</li>
   </ul>
 
-  <h4>Agile project manager, web app engineer, FDM Group and QMUL</h4>
+  <h4>Agile project manager & Web app engineer (FDM Group and QMUL)</h4>
   <ul>
     <li>Identified pain points and gathered insights on the mentoring programme during interviews with the 
 client, resulting in a 50% increase in mentee satisfaction</li>
