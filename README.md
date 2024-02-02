@@ -48,14 +48,17 @@ team’s productivity by 20%</b></li>
 <h2>Supracurrilucar</h2>
 <ul>
   <li><b>QIncubator</b>: I participated in a college enterprise programme where I learnt basics of finding an opportunity in the market, starting, and running a business</li>
-  <li><b>London Business School Hackathon 2021</b>: I took part in the hackathon with an idea that would help large companies efficiently offset their carbon footprint by investing in blue carbon solutions. I worked in a cross-disciplinary team on developing a product, business model, and a prototype in Figma
+  <li><b>London Business School Hackathon 2021</b>: 
+    <ul>
+      <li>Proposed a blue carbon-based solution for corporations to offset their carbon footprint</li>
+      <li>Co-developed a business model</li>
+      <li>Co-created a website prototype in Figma</li>
+      <li>Collaborated in a cross-disciplinary team of four</li>
+    </ul>
   </li>
-  <li><b>Tech company</b>: I have put my skills into practice and started a tech company that develops digital planners</li>
   <li><b>Independent study of neuroscience and neurotechnology:</b><br>
   <ul>
-    <li>I study the Berkeley Neuroscience online course</li>
-    <li>I read research papers and books like The Neurotech Primer</li>
-    <li>I participate in networking events as Imperial College MedTech SuperConnector</li>
+    <li>Mope</li>
     </ul>
   </li>
   </ul>
