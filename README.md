@@ -51,6 +51,7 @@ team’s productivity by 20%</b></li>
   <li><b>QIncubator</b>: Participated in a college enterprise programme & practiced finding a market opportunity, starting, and running a business</li>
   <li><b>London Business School Hackathon 2021</b>: 
     <ul>
+      <li>Moderated a global hybrid hackathon in <b>neurotechnology NeuroTechX 2023 <a href="https://www.linkedin.com/posts/heatherreadconnecticut_neurotechx-global-hackathon-2023-neurotechx-activity-7137119441309323264-mjPu?utm_source=share&utm_medium=member_desktop"><b>(link)</b></a></b></li>
       <li>Proposed a blue carbon-based solution for corporations to offset their carbon footprint</li>
       <li>Co-developed a business model</li>
       <li>Co-created a website prototype in Figma</li>
