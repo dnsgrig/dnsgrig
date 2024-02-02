@@ -8,7 +8,7 @@ I look forward to graduate opportunities in Brain Machine Interface R&D, Web and
 <li><b>MSc Neurotechnology</b>, Imperial College London (2022-2024), <b>Mark: Merit</b></li>
   <ul>
     <li>Redesigned a robotic research platform in Python to suit the needs of future research projects</li>
-  </ul>
+  </ul><br>
 <li><b>BSc Computer Science</b>, Queen Mary University of London (2019-2022), Mark: 1st class with Honours</li>
   <ul>
     <li>Programmed web applications using HTML5, CSS3, PHP, JS, Bootstrap</li>
