@@ -5,7 +5,7 @@ I look forward to graduate opportunities in Brain Machine Interface R&D, Web and
 <a href="https://twitter.com/denisgrigoryev5"><b>Twitter</b></a>
 <h2>Education</h2>
 <ul>
-<li><b>MSc Neurotechnology</b>, Imperial College London (2022-2024), Mark: Merit</li>
+<li><b>MSc Neurotechnology</b>, Imperial College London (2022-2024), <b>Mark: Merit</b></li>
   <ul>
     <li>Redesigned a robotic research platform in Python to suit the needs of future research projects</li>
   </ul>
