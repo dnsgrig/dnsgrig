@@ -56,10 +56,7 @@ team’s productivity by 20%</b></li>
       <li>Collaborated in a cross-disciplinary team of four</li>
     </ul>
   </li>
-  <li><b>Independent study of neuroscience and neurotechnology:</b><br>
-  <ul>
-    <li>Mope</li>
-    </ul>
+  <li><b>Currently learning:</b> Flask, Django, AWS, APIs, Python OOP, OpenCV, CI/CD<br>
   </li>
   </ul>
 
