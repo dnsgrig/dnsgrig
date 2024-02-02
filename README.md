@@ -7,7 +7,7 @@ I look forward to graduate opportunities in Brain Machine Interface R&D, Web and
 <li><b>BSc Computer Science</b>, Queen Mary University of London (2019-2022)</li>
 <br>
 
-
+<h2>Experience</h2>
 <!--
 **dnsgrig/dnsgrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Experience</h2>
+
 <li><h4>Final year project (Computer Science BSc)</h4>
 <ul>
   <li><b>Title:</b> <i>"Relating brain information processing patterns to activities and inferring user state
