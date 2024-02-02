@@ -7,7 +7,8 @@ I am a graduate form <b>Imperial College London</b> skilled in Brain Machine int
 <ul>
 <li><h4><b>MSc Neurotechnology</b>, Imperial College London (2022-2024), <b>Merit</b></h4></li>
   <ul>
-    <li>Redesigned a robotic research platform in <b>Python</b> to suit the needs of future research projects</li>
+    <li>Redesigned software for a research platform to reduce coding and testing time in future research projects by 50%</li>
+    <li>Implemented modular and efficient system’s control algorithms in <b>Python</b></li>
   </ul>
 <li><h4><b>BSc Computer Science</b>, Queen Mary University of London (2019-2022), <b>1st class with Honours</b></h4></li>
   <ul>
