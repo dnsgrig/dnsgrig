@@ -1,12 +1,8 @@
 ### <h1>Hi there 👋</h1>
 - <b>MSc Neurotechnology</b>, Imperial College London (2022-2024)
-- <b>BSc Computer Science</b>, Queen Mary University of London<br> (2019-2022)
-- During my studies I've developed an interest in technologies capable of <b>augmenting human abilities</b>.<br>
-- In particular, <b>Brain-Machine Interfaces</b> and how this technology can help us understand human brain and improve its funtions.<br>
-
-✨ To pursue my interest further I will be studyng an <b>MSc in Biomedical Engineering (Neurotechnology) at Imperial College London</b>.<br><br>
-⚡ I'm open to new exciting opportunities in <b>machine learning, brain data analysis, business projects, and neurotechnology</b>. <br><br>
-📫 <b>My contact details are below!</b><br>
+- <b>BSc Computer Science</b>, Queen Mary University of London (2019-2022) <br>
+⚡ I look forard to graduate opportunities in Brain Machine Interface R&D, Web and Software Development
+📫 <b>Contact details below!</b><br>
 
 <!--
 **dnsgrig/dnsgrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
