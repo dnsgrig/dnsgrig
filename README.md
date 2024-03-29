@@ -3,6 +3,11 @@ I am a graduate form <b>Imperial College London</b> skilled in Brain Machine int
 ⏩ I look forward to graduate opportunities in <b>R&D, Neural Engineering, Project Management, and Web Dev</b><br><br>
 <a href="https://www.linkedin.com/in/denis-grigoryev-673884199/"><b>LinkedIn</b></a> | 
 <a href="https://twitter.com/denisgrigoryev5"><b>Twitter</b></a>
+<h2>My story</h2>
+<p>Studying BSc Computer Science at Queen Mary University of London I became curious about how computation is carried out beyond the world of man made computers.
+
+Human brain - the most advanced biological processor has captured my attention and so I went on conducting a final year project titled “*Relating brain information processing patterns to activities and inferring user state in passive brain-machine interfaces (pBCI’s)*” where I investigated how the processing of brain signals without user’s direct intervention can be used to implicitly control a brain machine interface.</p>
+
 <h2>Education</h2>
 <ul>
 <li><h4><b>MSc Neurotechnology</b>, Imperial College London (2022-2024), <b>Merit</b></h4></li>
