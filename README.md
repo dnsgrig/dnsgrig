@@ -2,8 +2,8 @@
 I am a graduate form <b>Imperial College London</b> skilled in Brain Machine interfaces, Neural decoders, Data analysis, Real-time systems, and Web development.<br><br>
 ⏩ I seek opportunities in <b>R&D, Neural Engineering, Project Management, and Web Dev.</b><br>
 
-Email: grigoryev.uk@gmail.com<br>
-Mobile: +44 07444 369 408<br>
+Email: grigoryev.uk@gmail.com<br><br>
+Mobile: +44 07444 369 408<br><br>
 <a href="https://www.linkedin.com/in/denis-grigoryev-673884199/"><b>LinkedIn</b></a> | 
 <a href="https://twitter.com/denisgrigoryev5"><b>Twitter</b></a>
 <h2>My story</h2>
