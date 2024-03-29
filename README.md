@@ -1,6 +1,6 @@
 ### <h1>Hi there 👋</h1>
 I am a graduate form <b>Imperial College London</b> skilled in Brain Machine interfaces, Neural decoders, Data analysis, Real-time systems, and Web development.<br><br>
-⏩ I seek opportunities in <b>R&D, Neural Engineering, Project Management, and Web Dev.</b><br><br>
+⏩ ➡️ seek opportunities in <b>R&D, Neural Engineering, Project Management, and Web Dev.</b><br><br>
 
 Email: grigoryev.uk@gmail.com<br><br>
 Mobile: +44 07444 369 408<br><br>
