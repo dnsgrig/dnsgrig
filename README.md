@@ -29,7 +29,7 @@ applying an efficient data processing model MapReduce</li>
 </ul>
 
 <h2>Experience</h2>
-<h4>Final year project (Computer Science BSc)</h4>
+<h4>Bachelors thesis</h4>
 <ul>
   <li><b>Title:</b> <i>"Relating brain information processing patterns to activities and inferring user state
 in passive brain-machine interfaces (pBCI’s)"</i> </li>
@@ -39,7 +39,7 @@ in passive brain-machine interfaces (pBCI’s)"</i> </li>
 blueprint of a pBCI system that infers user sate based on these formulas</li>
   </ul>
 
-  <h4>Agile project manager & Web app engineer (FDM Group and QMUL)</h4>
+  <h4>Project manager & Web app engineer (FDM Group and QMUL)</h4>
   <ul>
     <li>Identified pain points and gathered insights on the mentoring programme during interviews with the 
 client, <b>resulting in a 50% increase in mentee satisfaction</b></li>
@@ -50,7 +50,7 @@ team’s productivity by 20%</b></li>
     <li>Received a <b>prize for the best work out of 23 competing teams <a href="https://www.linkedin.com/posts/denis-grigoryev-673884199_best-prototype-group-2021-activity-6801458329332842497-KVIH/?utm_source=share&utm_medium=member_desktop"><b>(link)</b></a></b></li>
   </ul>
 
-<h4>Teaching Assistant Object Oriented Programming in Java (QMUL)</h4>
+<h4>Teaching Assistant in Object Oriented Programming, Java (QMUL)</h4>
 <ul>
     <li>Taught Object-oriented programming (OOP) concepts to 12 first-year college students</li>
   <li>Performed <b>code review</b> and provided individualized and detailed feedback</li>
