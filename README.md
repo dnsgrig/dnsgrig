@@ -16,13 +16,13 @@ Human brain - the most advanced biological processor has captured my attention a
 
 <h2>Education</h2>
 <ul>
-<li><h4><b>MSc Neurotechnology</b>, Imperial College London (2022-2024), <b>Merit</b></h4></li>
+<li><h4><b>MSc Neurotechnology</b>, Imperial College London (2022-2024), <b>Merit</b>, <b>approx. 3.4 GPA</b></h4></li>
   <ul>
     <li>Redesigned software for a research platform to reduce coding and testing time in future research projects by 50%</li>
     <li>Developed modular and efficient system’s control algorithms in <b>Python</b></li>
     <li>Conducted research on sensorimotor control mechanisms supervised by Prof. Holger Krapp</li>
   </ul>
-<li><h4><b>BSc Computer Science</b>, Queen Mary University of London (2019-2022), <b>1st class with Honours</b></h4></li>
+<li><h4><b>BSc Computer Science</b>, Queen Mary University of London (2019-2022), <b>1st class with Honours</b>, <b>4.0 GPA</b></h4></li>
   <ul>
     <li>Programmed web applications using <b>HTML5, CSS3, PHP, JS, Bootstrap</b></li>
     <li>Developed prototypes in <b>Figma</b> and modeled software systems in <b>Visual Paradigm</b></li>
