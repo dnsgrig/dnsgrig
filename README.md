@@ -7,7 +7,7 @@ Mobile: +44 07444 369 408<br><br>
 <a href="https://www.linkedin.com/in/denis-grigoryev-673884199/"><b>LinkedIn</b></a> | 
 <a href="https://twitter.com/denisgrigoryev5"><b>Twitter</b></a>
 <h2>My story</h2>
-<p>Studying <FONT COLOR="RED">BSc Computer Science at Queen Mary University of London</FONT> I became curious about how computation is carried out beyond the world of man made computers.
+<p>Studying <FONT COLOR="blue">BSc Computer Science at Queen Mary University of London</FONT> I became curious about how computation is carried out beyond the world of man made computers.
 
 Human brain - the most advanced biological processor has captured my attention and so I went on conducting a final year project titled “*Relating brain information processing patterns to activities and inferring user state in passive brain-machine interfaces (pBCI’s)*” where I investigated how the processing of brain signals without user’s direct intervention can be used to implicitly control a brain machine interface.</p>
 <p>To pursue my academic passion further I enrolled at an MSc Biomedical Engineering with a focus on Neurotechnology at Imperial College London, meanwhile winning a highly competitive scholarship from the Department of Bioengineering. I have completed the masters thesis “Towards collision-free movement in arbitrary environments using a Fly-Robot-Interface” in the lab of Prof. Holger Krapp where I redesigned a brain-machine interface bio-hybrid robotic intelligent system (Fly-Robotic-Interface) used by the lab to investigate insect’s sensorimotor control mechanisms. My innovative and efficient system design will reduce coding and testing time in future research projects by 50%.</p>
