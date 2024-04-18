@@ -66,12 +66,12 @@ team’s productivity by 20%</b></li>
   <ul>
   <li>Moderated a global hybrid hackathon in <b>neurotechnology NeuroTechX 2023 <a href="https://www.linkedin.com/posts/heatherreadconnecticut_neurotechx-global-hackathon-2023-neurotechx-activity-7137119441309323264-mjPu?utm_source=share&utm_medium=member_desktop"><b>(link)</b></a></b></li>
     <li>Took responsibility of communicating effectively with guest speakers and keeping the audience engaged throughout the event.</li>
-  </ul>
-  <li>Spring School & Hackathon, G.tec medical engineering:</li>
+  </ul><br>
+  <li><b>Spring School & Hackathon, G.tec medical engineering:</b></li>
   <ul>
     <li>Designed a graphical brain-machine interface in Unity, leveraging user generated Visual Evoked Potentials (VEP) to control an animated game character in a neuroregenerative game aimed at patients with Parkinson’s disease</li>
-  </ul>
-  <li><b>QIncubator</b>: Participated in a college enterprise programme & practiced finding a market opportunity, starting, and running a business</li>
+  </ul><br>
+  <li><b>QIncubator</b>: Participated in a college enterprise programme & practiced finding a market opportunity, starting, and running a business</li><br>
   <li><b>London Business School Hackathon 2021</b>: 
     <ul>
       <li>Proposed a blue carbon-based solution for corporations to offset their carbon footprint</li>
@@ -79,7 +79,7 @@ team’s productivity by 20%</b></li>
       <li>Co-created a website prototype in Figma</li>
       <li>Collaborated in a cross-disciplinary team of four</li>
     </ul>
-  </li>
+  </li><br>
   <li><b>Currently learning:</b> Flask, Django, AWS, APIs, Python OOP, OpenCV, CI/CD<br>
   </li>
   </ul>
